@@ -1,0 +1,1 @@
+// Este archivo está destinado a contener scripts JavaScript para agregar interactividad a la landing page.
